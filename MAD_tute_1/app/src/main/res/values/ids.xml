@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtNumber2" type="id" />
+    <item name="edtNumber1" type="id" />
+    <item name="btnMultiply" type="id" />
+    <item name="btnPlus" type="id" />
+    <item name="btnMinus" type="id" />
+    <item name="btnDivide" type="id" />
+    <item name="background" type="id" />
+
+    <item  name="second_background" type="id" />
+    <item name="btnBack" type="id" />
+    <item name="txtAnswer" type="id" />
+</resources>

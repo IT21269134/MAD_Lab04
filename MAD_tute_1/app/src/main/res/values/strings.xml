@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MAD_tute_1</string>
+
+    <!--    <string name="app_name">Tutorial 03 Sample</string>-->
+    <string name="label_Number1">Number 01</string>
+    <string name="label_Number2">Number 02</string>
+    <string name="edt_Number1">23</string>
+    <string name="edt_Number2">12</string>
+    <string name="btn_Plus">+</string>
+    <string name="btn_Minus">-</string>
+    <string name="btn_Multiply">x</string>
+    <string name="btn_Divide">/</string>
+    <string name="background" />
+
+    <string name="btn_back">Back</string>
+    <string name="answer_text">TextView</string>
+    <string name="answer">Answer</string>
+    <string name="back">Back</string>
+
+</resources>
